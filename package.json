@@ -1,0 +1,13 @@
+{
+  "name": "kennycheew.com",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kennycheew/kennycheew.com.git",
+  "author": "kencheew",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^6.0.0",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
+  }
+}
